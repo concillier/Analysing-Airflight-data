@@ -7,6 +7,11 @@ All of the data is in a SQLite database called flights.db which can be downloade
 # Breakdown of what the data contains
 Flights.db contains three tables : airports, airlines, and routes. 
 
-#How to view the data
+# How to view the data
 No need to install anything 😉
 Simply go to files, click on Airline flights.ipynb file and it will load all the analysed data
+
+# Libraries and packages used. 
+Pandas:https://pandas.pydata.org/
+Basemap: https://matplotlib.org/basemap/index.html
+Matplotlib: https://matplotlib.org/
